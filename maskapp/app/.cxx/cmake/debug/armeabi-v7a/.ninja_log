@@ -1,0 +1,5 @@
+# ninja log v5
+0	10	0	clean	c6959a9d7feaf059
+1	943	645096148	CMakeFiles/yolov5.dir/jni_interface.cpp.o	d522870e068ec9b0
+3	1078	645096148	CMakeFiles/yolov5.dir/YoloV5.cpp.o	cae5c9e1e3a1dee7
+1078	1252	645096148	C:/Users/rhy3h/Desktop/maskapp/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov5.so	8cbb3542b68c9d6e

@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "C:\\Users\\rhy3h\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\compiler_id.cmake",
+    "C:\\Users\\rhy3h\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\rhy3h\\Desktop\\maskapp\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\rhy3h\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\rhy3h\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\rhy3h\\Desktop\\maskapp\\app\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\rhy3h\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\rhy3h\\Desktop\\maskapp\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5-Release-x86": {
+      "artifactName": "yolov5",
+      "buildCommand": "C:\\Users\\rhy3h\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\rhy3h\\Desktop\\maskapp\\app\\.cxx\\cmake\\release\\x86\" yolov5",
+      "abi": "x86",
+      "output": "C:\\Users\\rhy3h\\Desktop\\maskapp\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libyolov5.so",
+      "runtimeFiles": [
+        "C:\\Users\\rhy3h\\Desktop\\maskapp\\app\\src\\main\\cpp\\ncnn\\x86\\libncnn.a"
+      ]
+    }
+  }
+}
