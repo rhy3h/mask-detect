@@ -15,8 +15,8 @@ CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build
   values may be wrong or missing.  Update to CMake 3.19 or newer to use
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Check for working C compiler: C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
@@ -27,8 +27,8 @@ CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build
   values may be wrong or missing.  Update to CMake 3.19 or newer to use
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Detecting C compiler ABI info - done
@@ -39,8 +39,8 @@ CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build
   values may be wrong or missing.  Update to CMake 3.19 or newer to use
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake:449 (message):
@@ -49,8 +49,8 @@ CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build
   values may be wrong or missing.  Update to CMake 3.19 or newer to use
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake:449 (message):
@@ -59,8 +59,8 @@ CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build
   values may be wrong or missing.  Update to CMake 3.19 or newer to use
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Detecting C compile features - done
@@ -71,8 +71,8 @@ CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build
   values may be wrong or missing.  Update to CMake 3.19 or newer to use
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Check for working CXX compiler: C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
@@ -83,8 +83,8 @@ CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build
   values may be wrong or missing.  Update to CMake 3.19 or newer to use
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Detecting CXX compiler ABI info - done
@@ -95,8 +95,8 @@ CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build
   values may be wrong or missing.  Update to CMake 3.19 or newer to use
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake:449 (message):
@@ -105,8 +105,8 @@ CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build
   values may be wrong or missing.  Update to CMake 3.19 or newer to use
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake:449 (message):
@@ -115,8 +115,8 @@ CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build
   values may be wrong or missing.  Update to CMake 3.19 or newer to use
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake:449 (message):
@@ -125,8 +125,8 @@ CMake Warning at C:/Users/rhy3h/AppData/Local/Android/Sdk/ndk/22.1.7171670/build
   values may be wrong or missing.  Update to CMake 3.19 or newer to use
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Detecting CXX compile features - done

@@ -1,7 +1,0 @@
-Executable : C:\Users\rhy3h\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
-arguments : 
--C
-C:\Users\rhy3h\Desktop\maskapp\app\.cxx\cmake\debug\armeabi-v7a
-yolov5
-jvmArgs : 
-
