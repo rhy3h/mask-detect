@@ -1,4 +1,0 @@
-ninja: Entering directory `F:\AndroidStudioProjects\mask-detect\maskapp\app\.cxx\cmake\debug\x86'
-[1/3] Building CXX object CMakeFiles/yolov5.dir/jni_interface.cpp.o
-[2/3] Building CXX object CMakeFiles/yolov5.dir/YoloV5.cpp.o
-[3/3] Linking CXX shared library F:\AndroidStudioProjects\mask-detect\maskapp\app\build\intermediates\cmake\debug\obj\x86\libyolov5.so

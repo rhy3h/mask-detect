@@ -1,4 +1,0 @@
-# ninja log v5
-1	1654	645099346	CMakeFiles/yolov5.dir/jni_interface.cpp.o	6e1bf7e3038f510c
-6	1842	645099346	CMakeFiles/yolov5.dir/YoloV5.cpp.o	d141f2b40763e3c4
-1842	2204	645099347	F:/AndroidStudioProjects/mask-detect/maskapp/app/build/intermediates/cmake/debug/obj/x86/libyolov5.so	29036b4f3e768485

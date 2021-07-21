@@ -12,7 +12,7 @@ Tips: If your class is not too much, use YOLOv4-tiny rather than YOLOv4 you will
 
 ### 1. Convert yolov4-tiny cfg and weights 
 
-Download pre-trained [yolov4-tiny-custom.cfg](https://github.com/rhy3h/mask-detect/blob/main/YOLOv4/cfg/yolov4-tiny-custom.cfg) and [yolov4-tiny-custom.weights](https://github.com/rhy3h/mask-detect/blob/main/YOLOv4/weights/yolov4-tiny-custom_final.weights) or with your own trained weight.
+Download pre-trained [yolov4-tiny-custom.cfg](https://github.com/rhy3h/mask-detect/blob/main/YOLOv4/yolov4-tiny-custom.cfg) and [yolov4-tiny-custom.weights](https://github.com/rhy3h/mask-detect/blob/main/YOLOv4/yolov4-tiny-custom_final.weights) or with your own trained weight.
 
 ### 2. [Convert to Ncnn](https://github.com/rhy3h/mask-detect/blob/main/YOLOv4/darknet2ncnn/darknet2ncnn.exe) 
 Convert cfg and weights:
@@ -43,6 +43,26 @@ ncnnoptimize yolov4-tiny.param yolov4-tiny.bin yolov4-tiny-opt.param yolov4-tiny
 ## [APK](https://github.com/rhy3h/mask-detect/blob/main/maskapp/app/release/app-release.apk) 
 
 ### If the program crashes, please open the camera and read/write storage permission 
+
+## Yolo Precision Rate
+|       | TP | FN | FP |  Precision  | Recall |
+| ----- | -- | -- | -- | ----------  | ------ |
+| best	| 25 | 0  | 2  |    0.93     |	1     |
+| bad1	| 24 | 4  | 1  |    0.96     |  0.86  |
+| bad2	| 22 | 4  | 2  |    0.92     |	0.85  |
+| worst	| 25 | 0  | 3  |    0.89     |	1     |
+
+Precision Rate: 0.94 (96 / 102)
+
+## App Precision Rate
+|       | TP | FN | FP |  Precision  | Recall |
+| ----- | -- | -- | -- | ----------  | ------ |
+| best	| 10 | 0  | 4  |    0.71     |	1     |
+| bad1	| 7  | 3  | 0  |    1        |  0.7   |
+| bad2	| 8  | 2  | 0  |    1        |	0.8   |
+| worst	| 10 | 0  | 1  |    0.91     |	1     |
+
+Precision Rate: 0.88 (35 / 40)
 
 ## Credits 
 - [Darknet](https://github.com/AlexeyAB/darknet)

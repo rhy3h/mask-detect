@@ -1,4 +1,0 @@
-# ninja log v5
-3	902	645096585	CMakeFiles/yolov5.dir/jni_interface.cpp.o	9ed6d09e05fa5865
-0	1142	645096585	CMakeFiles/yolov5.dir/YoloV5.cpp.o	2895662a36beb665
-1142	1280	645096586	C:/Users/rhy3h/Desktop/maskapp/app/build/intermediates/cmake/release/obj/x86/libyolov5.so	c835e5420ee5d1bd

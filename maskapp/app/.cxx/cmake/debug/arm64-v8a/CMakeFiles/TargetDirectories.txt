@@ -1,3 +1,0 @@
-C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
-C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/yolov5.dir
-C:/Users/rhy3h/Desktop/maskapp/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir

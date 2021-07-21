@@ -1,3 +1,0 @@
-F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
-F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/yolov5.dir
-F:/AndroidStudioProjects/mask-detect/maskapp/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
