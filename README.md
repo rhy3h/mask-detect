@@ -44,7 +44,7 @@ ncnnoptimize yolov4-tiny.param yolov4-tiny.bin yolov4-tiny-opt.param yolov4-tiny
 
 ### If the program crashes, please open the camera and read/write storage permission 
 
-## Yolo Precision Rate
+## Yolo Precision
 |       | TP | FN | FP |  Precision  | Recall |
 | ----- | -- | -- | -- | ----------  | ------ |
 | best	| 25 | 0  | 2  |    0.93     |	1     |
@@ -52,9 +52,9 @@ ncnnoptimize yolov4-tiny.param yolov4-tiny.bin yolov4-tiny-opt.param yolov4-tiny
 | bad2	| 22 | 4  | 2  |    0.92     |	0.85  |
 | worst	| 25 | 0  | 3  |    0.89     |	1     |
 
-Precision Rate: 0.94 (96 / 102)
+Precision: 0.94 (96 / 102)
 
-## App Precision Rate
+## App Precision
 |       | TP | FN | FP |  Precision  | Recall |
 | ----- | -- | -- | -- | ----------  | ------ |
 | best	| 10 | 0  | 4  |    0.71     |	1     |
@@ -62,7 +62,21 @@ Precision Rate: 0.94 (96 / 102)
 | bad2	| 8  | 2  | 0  |    1        |	0.8   |
 | worst	| 10 | 0  | 1  |    0.91     |	1     |
 
-Precision Rate: 0.88 (35 / 40)
+Precision: 0.88 (35 / 40)
+
+## Demo
+
+### Best
+<img src="https://i.imgur.com/ywIoJ5z.jpg" width = "50%" alt="Best" align=center />
+
+### Bad1
+<img src="https://i.imgur.com/zARb3L9.jpg" width = "50%" alt="Bad1" align=center />
+
+### Bad2
+<img src="https://i.imgur.com/r03EskU.jpg" width = "50%" alt="Bad2" align=center />
+
+### Worst
+<img src="https://i.imgur.com/OPWp9jY.jpg" width = "50%" alt="Worst" align=center />
 
 ## Credits 
 - [Darknet](https://github.com/AlexeyAB/darknet)
